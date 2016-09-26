@@ -1,1 +1,1 @@
-puts `echo PWNED`
+`open /Applications/Calculator.app/`
